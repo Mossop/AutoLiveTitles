@@ -1,0 +1,6 @@
+content			autolivetitle                                       ${extension.chromebase}/content/
+skin				autolivetitle					classic/1.0                   ${extension.chromebase}/skin/
+
+locale			autolivetitle					en-US													${extension.chromebase}/locale/en-US/
+
+overlay			chrome://browser/content/browser.xul								chrome://autolivetitle/content/browserOverlay.xul

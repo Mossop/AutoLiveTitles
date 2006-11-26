@@ -1,0 +1,19 @@
+<!ENTITY autolivetitle.context.label             "Create Live Title">
+
+<!ENTITY autolivetitle.dialog.title              "Select XPath">
+<!ENTITY autolivetitle.xpath.tab                 "XPath">
+<!ENTITY autolivetitle.preview.caption           "Preview">
+<!ENTITY autolivetitle.name.label                "Name:">
+<!ENTITY autolivetitle.prefix.label              "Prefix:">
+<!ENTITY autolivetitle.suffix.label              "Suffix:">
+<!ENTITY autolivetitle.xpath.label               "XPath:">
+<!ENTITY autolivetitle.save.label                "Save">
+
+<!ENTITY autolivetitle.meta.tab                  "Metadata">
+<!ENTITY autolivetitle.pages.caption             "Pages">
+<!ENTITY autolivetitle.pages.host                "Website">
+<!ENTITY autolivetitle.pages.current             "Current page">
+<!ENTITY autolivetitle.update.caption            "Update Frequency">
+<!ENTITY autolivetitle.update.5minutes           "5 Minutes">
+<!ENTITY autolivetitle.update.30minutes          "30 Minutes">
+<!ENTITY autolivetitle.update.60minutes          "60 Minutes">
